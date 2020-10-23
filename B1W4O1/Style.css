@@ -1,0 +1,73 @@
+body{
+	margin: auto;
+	background-image:url("Images/lake.jpg");
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+img.photo{
+	margin-right: 50px; 
+	height: 350px;
+	width: 350px;
+	border: 3px solid Green;
+	float: right;
+}
+h1{
+	color: white;
+	font-size:40px; 
+}
+h2{
+	color: white;
+	font-size:30px; 
+}
+img.logo{
+	margin-right: 50px; 
+	height: 350px;
+	width: 350px;
+	border: 3px solid blue;
+	float: right;
+}
+article{
+	padding-left: 20px;
+	color: #daf200;
+	margin-top: 80px;
+	margin-right: 550px;
+	margin-left: 10px;
+	border: 5px solid white;
+	font-size: 30px; 
+}
+.link{
+	color: white;
+	text-decoration: none;
+}
+.link:hover {
+	text-decoration: underline;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #48cc3f;
+ 
+}
+.active{
+	color: green;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: lightblue;
+}

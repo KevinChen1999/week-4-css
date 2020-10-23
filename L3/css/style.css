@@ -1,0 +1,21 @@
+body{
+	background-color: #bbdddd;
+}
+img{
+	border: 2px solid black;
+
+}
+img.top{
+	float: left;
+	margin: 10px;
+	
+}
+img.middle{
+	float: right;
+	margin: 10px;
+
+}
+img.bottem{
+	float: right;
+
+}
